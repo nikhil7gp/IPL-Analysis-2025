@@ -9,11 +9,6 @@ Power BI • Data Cleaning • M Language • DAX • Cricket Analytics
 An end-to-end Power BI project analyzing **18+ years of IPL history** (2008–2025).
 This dashboard uncovers trends in team performance, season progression, playoff structure, players, venues, and match outcomes using **cleaned match & ball-by-ball datasets**.
 
-The project also includes **custom playoff classification**, converting the last matches of each season into:
-
-* **Semi Finals / Final (2008–2010)**
-* **Qualifier 1, Eliminator, Qualifier 2, Final (2011–2024)**
-
 ---
 
 ## 🖼️ **Dashboard Preview**
